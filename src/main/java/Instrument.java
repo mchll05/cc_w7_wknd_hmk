@@ -5,7 +5,7 @@ public abstract class Instrument {
     double price;
 
 
-    public void Intrument(String name, String type, int price){
+    public Instrument(String name, String type, double price){
         this.name = name;
         this.type = type;
         this.price = price;
