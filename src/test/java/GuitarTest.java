@@ -24,11 +24,11 @@ public class GuitarTest {
 
     @Test
     public void hasPrice(){
-        assertEquals(200.00,guitar1.getPrice());
+        assertEquals(200.00, guitar1.getPrice());
     }
 
     @Test
     public void hasStringNum(){
-        assertEquals(3,guitar1.getStringNum());
+        assertEquals(3, guitar1.getStringNum());
     }
 }
