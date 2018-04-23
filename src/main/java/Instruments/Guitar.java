@@ -1,3 +1,5 @@
+package Instruments;
+
 public class Guitar extends Instrument {
 
     int stringNum;
